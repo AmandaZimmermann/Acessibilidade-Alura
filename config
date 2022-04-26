@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[user]
+	name = Amanda Zimmermann
+	email = amanda.zdar@gmail.com
+[remote "origin"]
+	url = https://github.com/AmandaZimmermann/Acessibilidade-Alura.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
